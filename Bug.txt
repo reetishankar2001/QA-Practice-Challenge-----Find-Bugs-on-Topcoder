@@ -1,0 +1,61 @@
+BUG 1
+Bug Title- "Title Misalignment"
+Steps to Reproduce: Should be centred from all corners
+**Actual Result:**��<Actual result after reproduction steps>
+Expected Result:��<Expected result after reproduction steps>
+Screenshots or screencast URL: https://platform.topcoder.com/
+Device/OS/Browser Information: MacOS
+
+Classification - UI Bug
+Screenshot name - Bug1
+
+************************************************************************************
+
+BUG 2
+
+Bug Title- "Content Missing on the Documentation page"
+Steps to Reproduce: "Should be able to fetch the content and title of the respective documents."
+**Actual Result:**��<Actual result after reproduction steps>
+Expected Result:��<Expected result after reproduction steps>
+Screenshots or screencast URL: https://platform.topcoder.com/model
+Device/OS/Browser Information: MacOS
+
+Classification - Functional Bug
+Screenshot name - Bug2
+
+
+
+************************************************************************************
+
+
+BUG 3
+
+Bug Title- "Content Missing on the Earn Page"
+Steps to Reproduce: "Call the earning page"
+**Actual Result:**��<Actual result after reproduction steps>
+Expected Result:��<Expected result after reproduction steps>
+Screenshots or screencast URL: https://platform.topcoder.com/earn
+Device/OS/Browser Information: MacOS
+
+Classification - Functional Bug
+Screenshot name - Bug3
+
+
+
+************************************************************************************
+
+BUG 4
+
+Bug Title- "Switcher tool on left and not right"
+Steps to Reproduce: "Swticher tool should be shifter to the right top corner as mentioned in the text or the text should modify the "top right" to "top left" "
+**Actual Result:**��<Actual result after reproduction steps>
+Expected Result:��<Expected result after reproduction steps>
+Screenshots or screencast URL: https://platform.topcoder.com/
+Device/OS/Browser Information: iPhone 12 mobile view
+
+Classification - UI & UX Bug
+Screenshot name - Bug4
+
+
+
+************************************************************************************
